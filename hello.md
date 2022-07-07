@@ -1,3 +1,4 @@
 # Greetings
 
--English: Hello
+- English: Hello
+- Korean: 안녕
