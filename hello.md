@@ -1,5 +1,5 @@
 # Greetings
 
 - English: Hello
-- Korean: 안녕
+- Korean: 밥 한번만 먹자
 - spanish: hola
